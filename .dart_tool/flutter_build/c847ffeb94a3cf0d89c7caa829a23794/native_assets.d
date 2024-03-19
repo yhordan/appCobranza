@@ -1,0 +1,1 @@
+ C:\\Users\\YhoAgu\\Desktop\\aplicaciones\\nuevo\\App_Leon_XIII\\.dart_tool\\flutter_build\\c847ffeb94a3cf0d89c7caa829a23794\\native_assets.yaml: 

@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-core-ktx-1.10.1-0 C:\Users\YhoAgu\.gradle\caches\transforms-3\0e6bcd3dd774ef1833bf92ae872f3a52\transformed\jetified-core-ktx-1.10.1\res
+com.lyokone.location-jetified-annotation-experimental-1.3.0-1 C:\Users\YhoAgu\.gradle\caches\transforms-3\29d6a02c5c5b6224df77766caac73176\transformed\jetified-annotation-experimental-1.3.0\res
+com.lyokone.location-jetified-window-1.0.0-beta04-2 C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\res
+com.lyokone.location-lifecycle-runtime-2.3.1-3 C:\Users\YhoAgu\.gradle\caches\transforms-3\7c49963f02920dda4a711daa0c615c45\transformed\lifecycle-runtime-2.3.1\res
+com.lyokone.location-core-1.10.1-4 C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\res
+com.lyokone.location-jetified-play-services-basement-18.1.0-5 C:\Users\YhoAgu\.gradle\caches\transforms-3\bae0aa95ec3bbb805e04e9258cb7c98e\transformed\jetified-play-services-basement-18.1.0\res
+com.lyokone.location-jetified-play-services-base-18.1.0-6 C:\Users\YhoAgu\.gradle\caches\transforms-3\c13f80f7c6fab7af57b649bcb2573e16\transformed\jetified-play-services-base-18.1.0\res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-7 C:\Users\YhoAgu\.gradle\caches\transforms-3\ffb965f9fb5089a40ca88202197fc4d0\transformed\jetified-window-java-1.0.0-beta04\res
+com.lyokone.location-main-8 C:\Users\YhoAgu\AppData\Local\Pub\Cache\hosted\pub.dev\location-5.0.3\android\src\main\res
+com.lyokone.location-release-9 C:\Users\YhoAgu\AppData\Local\Pub\Cache\hosted\pub.dev\location-5.0.3\android\src\release\res
+com.lyokone.location-pngs-10 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\generated\res\pngs\release
+com.lyokone.location-resValues-11 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\generated\res\resValues\release
+com.lyokone.location-rs-12 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\generated\res\rs\release
+com.lyokone.location-mergeReleaseResources-13 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.lyokone.location-mergeReleaseResources-14 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.lyokone.location-merged_res-15 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\merged_res\release

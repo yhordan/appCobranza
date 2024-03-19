@@ -1,0 +1,12 @@
+io.flutter.plugins.connectivity-jetified-window-1.0.0-beta04-0 C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.connectivity-core-1.6.0-1 C:\Users\YhoAgu\.gradle\caches\transforms-3\c456305b569d69cb6ae4ddc924706bf5\transformed\core-1.6.0\res
+io.flutter.plugins.connectivity-jetified-annotation-experimental-1.1.0-2 C:\Users\YhoAgu\.gradle\caches\transforms-3\fb94b16b3d34cc6d61acb05419f4122e\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.connectivity-jetified-window-java-1.0.0-beta04-3 C:\Users\YhoAgu\.gradle\caches\transforms-3\ffb965f9fb5089a40ca88202197fc4d0\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.connectivity-main-4 C:\Users\YhoAgu\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity-3.0.6\android\src\main\res
+io.flutter.plugins.connectivity-release-5 C:\Users\YhoAgu\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity-3.0.6\android\src\release\res
+io.flutter.plugins.connectivity-pngs-6 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\generated\res\pngs\release
+io.flutter.plugins.connectivity-resValues-7 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\generated\res\resValues\release
+io.flutter.plugins.connectivity-rs-8 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\generated\res\rs\release
+io.flutter.plugins.connectivity-mergeReleaseResources-9 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.connectivity-mergeReleaseResources-10 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.connectivity-merged_res-11 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\intermediates\merged_res\release

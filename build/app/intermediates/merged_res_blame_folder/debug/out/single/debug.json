@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-xxhdpi_nuevo.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-xxhdpi/nuevo.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-hdpi_nuevo.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-hdpi/nuevo.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-hdpi_ic_launcher_1.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-hdpi/ic_launcher_1.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/drawable-v21_bg_color.xml.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/drawable-v21/bg_color.xml"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-xhdpi_ic_launcher_2.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-xhdpi/ic_launcher_2.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_2.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-xxhdpi/ic_launcher_2.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-xhdpi_nuevo.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-xhdpi/nuevo.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_2.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-xxxhdpi/ic_launcher_2.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-mdpi_nuevo.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-mdpi/nuevo.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-xxxhdpi_nuevo.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-xxxhdpi/nuevo.png"
+    },
+    {
+        "merged": "com.example.app_leon_xiii.app-merged_res-25:/mipmap-mdpi_ic_launcher_2.png.flat",
+        "source": "com.example.app_leon_xiii.app-main-19:/mipmap-mdpi/ic_launcher_2.png"
+    }
+]

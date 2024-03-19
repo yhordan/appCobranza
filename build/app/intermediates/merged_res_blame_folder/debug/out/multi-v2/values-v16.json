@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.app_leon_xiii.app-mergeDebugResources-23:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YhoAgu\\.gradle\\caches\\transforms-3\\9336bc795276f9b29d1c2f161daab62a\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.app_leon_xiii"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:2:5-66
+11-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:2:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:3:5-79
+12-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:3:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:4:5-81
+13-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:4:22-78
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+14-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:5:5-77
+14-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:5:22-74
+15    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+15-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:6:5-84
+15-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:6:22-82
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:7:5-70
+16-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:7:22-68
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->[:camera_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+17-->[:camera_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[:connectivity] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+18-->[:connectivity] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+23
+24    <queries>
+24-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+25
+26        <!-- Needs to be explicitly declared on Android R+ -->
+27        <package android:name="com.google.android.apps.maps" />
+27-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+27-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+28    </queries>
+29
+30    <permission
+30-->[androidx.core:core:1.10.1] C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+31        android:name="com.example.app_leon_xiii.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+31-->[androidx.core:core:1.10.1] C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+32        android:protectionLevel="signature" />
+32-->[androidx.core:core:1.10.1] C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+33
+34    <uses-permission android:name="com.example.app_leon_xiii.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+34-->[androidx.core:core:1.10.1] C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+34-->[androidx.core:core:1.10.1] C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+35
+36    <application
+37        android:name="android.app.Application"
+37-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:11:9-42
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.10.1] C:\Users\YhoAgu\.gradle\caches\transforms-3\9336bc795276f9b29d1c2f161daab62a\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+39        android:icon="@mipmap/nuevo"
+39-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:12:9-37
+40        android:label="Cobranzas Leon XIII" >
+40-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:10:9-44
+41        <meta-data
+41-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:13:9-14:73
+42            android:name="com.google.android.geo.API_KEY"
+42-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:13:20-65
+43            android:value="AIzaSyApGmzoy-nQtbOtQXdelIcWpPchNAAZJOY" />
+43-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:14:16-71
+44
+45        <activity
+45-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:15:9-35:20
+46            android:name="com.example.app_leon_xiii.MainActivity"
+46-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:16:13-41
+47            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+47-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:20:13-163
+48            android:exported="true"
+48-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:17:13-36
+49            android:hardwareAccelerated="true"
+49-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:21:13-47
+50            android:launchMode="singleTop"
+50-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:18:13-43
+51            android:theme="@style/LaunchTheme"
+51-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:19:13-47
+52            android:windowSoftInputMode="adjustResize" >
+52-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:22:13-55
+53
+54            <!--
+55                 Specifies an Android theme to apply to this Activity as soon as
+56                 the Android process has started. This theme is visible to the user
+57                 while the Flutter UI initializes. After that, this theme continues
+58                 to determine the Window background behind the Flutter UI.
+59            -->
+60            <meta-data
+60-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:27:13-30:17
+61                android:name="io.flutter.embedding.android.NormalTheme"
+61-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:28:15-70
+62                android:resource="@style/NormalTheme" />
+62-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:29:15-52
+63
+64            <intent-filter>
+64-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:31:13-34:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:32:17-68
+65-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:32:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:33:17-76
+67-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:33:27-74
+68            </intent-filter>
+69        </activity>
+70        <!--
+71             Don't delete the meta-data below.
+72             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+73        -->
+74        <meta-data
+74-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:38:9-40:33
+75            android:name="flutterEmbedding"
+75-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:39:13-44
+76            android:value="2" />
+76-->C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\android\app\src\main\AndroidManifest.xml:40:13-30
+77
+78        <service
+78-->[:geolocator_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:56
+79            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+79-->[:geolocator_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-77
+80            android:enabled="true"
+80-->[:geolocator_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-35
+81            android:exported="false"
+81-->[:geolocator_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+82            android:foregroundServiceType="location" />
+82-->[:geolocator_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-53
+83
+84        <provider
+84-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+85            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+85-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-82
+86            android:authorities="com.example.app_leon_xiii.flutter.image_provider"
+86-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-74
+87            android:exported="false"
+87-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+88            android:grantUriPermissions="true" >
+88-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+89            <meta-data
+89-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:75
+90                android:name="android.support.FILE_PROVIDER_PATHS"
+90-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+91                android:resource="@xml/flutter_image_picker_file_paths" />
+91-->[:image_picker_android] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-72
+92        </provider>
+93
+94        <service
+94-->[:location] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-17:56
+95            android:name="com.lyokone.location.FlutterLocationService"
+95-->[:location] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-71
+96            android:enabled="true"
+96-->[:location] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-35
+97            android:exported="false"
+97-->[:location] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+98            android:foregroundServiceType="location" /> <!-- Needs to be explicitly declared on P+ -->
+98-->[:location] C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-53
+99        <uses-library
+99-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+100            android:name="org.apache.http.legacy"
+100-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+101            android:required="false" />
+101-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\1e5c8275292e4cea8f295b0605b6d15d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+102
+103        <activity
+103-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\c13f80f7c6fab7af57b649bcb2573e16\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+104            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+104-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\c13f80f7c6fab7af57b649bcb2573e16\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\c13f80f7c6fab7af57b649bcb2573e16\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\c13f80f7c6fab7af57b649bcb2573e16\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+107
+108        <meta-data
+108-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\bae0aa95ec3bbb805e04e9258cb7c98e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+109            android:name="com.google.android.gms.version"
+109-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\bae0aa95ec3bbb805e04e9258cb7c98e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+110            android:value="@integer/google_play_services_version" />
+110-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\bae0aa95ec3bbb805e04e9258cb7c98e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+111
+112        <uses-library
+112-->[androidx.window:window:1.0.0-beta04] C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+113            android:name="androidx.window.extensions"
+113-->[androidx.window:window:1.0.0-beta04] C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+114            android:required="false" />
+114-->[androidx.window:window:1.0.0-beta04] C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+115        <uses-library
+115-->[androidx.window:window:1.0.0-beta04] C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+116            android:name="androidx.window.sidecar"
+116-->[androidx.window:window:1.0.0-beta04] C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+117            android:required="false" />
+117-->[androidx.window:window:1.0.0-beta04] C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+118
+119        <provider
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+120            android:name="androidx.startup.InitializationProvider"
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+121            android:authorities="com.example.app_leon_xiii.androidx-startup"
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+122            android:exported="false" >
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+123            <meta-data
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+124                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+125                android:value="androidx.startup" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+126        </provider>
+127
+128        <receiver
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+129            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+130            android:directBootAware="false"
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+131            android:enabled="true"
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+132            android:exported="true"
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+133            android:permission="android.permission.DUMP" >
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+134            <intent-filter>
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+135                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+136            </intent-filter>
+137            <intent-filter>
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+138                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+139            </intent-filter>
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+141                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+141-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+144                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\YhoAgu\.gradle\caches\transforms-3\47df462dd41e143846b8896bc11a4b90\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+145            </intent-filter>
+146        </receiver>
+147    </application>
+148
+149</manifest>

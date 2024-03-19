@@ -1,0 +1,12 @@
+app.rive.rive.rive_common-jetified-window-1.0.0-beta04-0 C:\Users\YhoAgu\.gradle\caches\transforms-3\37df44e7118a52ea2d20286036065704\transformed\jetified-window-1.0.0-beta04\res
+app.rive.rive.rive_common-core-1.6.0-1 C:\Users\YhoAgu\.gradle\caches\transforms-3\c456305b569d69cb6ae4ddc924706bf5\transformed\core-1.6.0\res
+app.rive.rive.rive_common-jetified-annotation-experimental-1.1.0-2 C:\Users\YhoAgu\.gradle\caches\transforms-3\fb94b16b3d34cc6d61acb05419f4122e\transformed\jetified-annotation-experimental-1.1.0\res
+app.rive.rive.rive_common-jetified-window-java-1.0.0-beta04-3 C:\Users\YhoAgu\.gradle\caches\transforms-3\ffb965f9fb5089a40ca88202197fc4d0\transformed\jetified-window-java-1.0.0-beta04\res
+app.rive.rive.rive_common-main-4 C:\Users\YhoAgu\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.2.8\android\src\main\res
+app.rive.rive.rive_common-release-5 C:\Users\YhoAgu\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.2.8\android\src\release\res
+app.rive.rive.rive_common-pngs-6 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\rive_common\generated\res\pngs\release
+app.rive.rive.rive_common-resValues-7 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\rive_common\generated\res\resValues\release
+app.rive.rive.rive_common-rs-8 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\rive_common\generated\res\rs\release
+app.rive.rive.rive_common-mergeReleaseResources-9 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\rive_common\intermediates\incremental\release\mergeReleaseResources\merged.dir
+app.rive.rive.rive_common-mergeReleaseResources-10 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\rive_common\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+app.rive.rive.rive_common-merged_res-11 C:\Users\YhoAgu\Desktop\aplicaciones\nuevo\App_Leon_XIII\build\rive_common\intermediates\merged_res\release
